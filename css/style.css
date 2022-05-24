@@ -241,12 +241,14 @@ color: white;
    text-align: center;
 }
 .left{
-   width: 50%;
+   width: 40%;
    float: left;
    margin-left: 30px;
 }
 .buttonedit{
    text-align: center;
+ 
+   
    
 }
 
@@ -254,6 +256,7 @@ color: white;
 border: 20px solid #fff;
   border-radius: 6px ;
   font-size: 20px;
+
 }
  
   
@@ -342,6 +345,7 @@ input[type=text], select, textarea {
   float: left;
 font-size: 20px;
 color: #fff;
+margin-right: 5rem;
 }
 #End .right{
    float: left;
